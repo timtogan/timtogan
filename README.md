@@ -1,4 +1,7 @@
-## Hi there I am Tim 👋
+![](https://komarev.com/ghpvc/?username=timtogan&color=green)  
+
+## Hi there I am Tim 👋  
+
 
 🏫 - Attending Carlmont High School  
 🤖 - Prgramer in FRC team 199  
