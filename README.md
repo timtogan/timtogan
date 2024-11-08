@@ -3,4 +3,4 @@
 🏫 - Attending Carlmont High Schol
 🤖 - Prgramer in FRC team 199
   🤖 - Working on robot code for the MA completion
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=timtogan)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=timtogan)]
