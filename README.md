@@ -7,6 +7,8 @@
 🏫 - Attending Carlmont High School  
 🤖 - Prgramer in FRC team 199  
   🤖 - Working on robot code for the MA completion  
+
+<img src="![white blue white flag](https://github.com/timtogan/timtgan/blob/main/whiteBlueWhiteFlag.png?raw=true)" width="20" height="20" /> test
   
 ## Stats  
   
@@ -14,4 +16,7 @@
   
 ## Most used prgramming languages  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timtogan&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timtogan&layout=compact) 
+
+
+
