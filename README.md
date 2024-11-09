@@ -8,7 +8,7 @@
 🤖 - Prgramer in FRC team 199  
   🤖 - Working on robot code for the MA completion  
 
-<img src="![white blue white flag](https://github.com/timtogan/timtogan/blob/5cedbf7582efc6ef047b20403abdb8eb99c7c276/whiteBlueWhiteFlag.png)" width="20" height="20" /> test
+<img src="![white blue white flag](https://raw.githubusercontent.com/timtogan/timtogan/5cedbf7582efc6ef047b20403abdb8eb99c7c276/whiteBlueWhiteFlag.png)" width="20" height="20" /> test
   
 ## Stats  
   
