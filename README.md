@@ -13,5 +13,5 @@
   
 ## Stats  
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=timtogan)  
+![My GitHub stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timtogan&show_icons=true&theme=transparent)  
 
