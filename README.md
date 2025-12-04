@@ -13,5 +13,5 @@
   
 ## Stats  
   
-![Anurag's GitHub stats](github-readme-stats-git-dependabot-8f0ff9-ts-projects-1462fe73.vercel.app/api?username=timtogan&show_icons=true&theme=transparent)  
+![Anurag's GitHub stats](https://github-readme-stats-git-dependabot-8f0ff9-ts-projects-1462fe73.vercel.app/api?username=timtogan&show_icons=true&theme=transparent)  
 
